@@ -1,4 +1,4 @@
-# Hi there
+# Salutations
 
 I'm Emerald585. 
 I develop games as a hobby, using godot and PICO-8.
