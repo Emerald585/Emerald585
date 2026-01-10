@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**Emerald585/Emerald585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Emerald585.
+I develop games as a hobby, using godot and PICO-8.
 
-Here are some ideas to get you started:
+# Current projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LASERCRAB]((https://github.com/Emerald585/lasercrab)), a battle game featuring crabs with knockback lasers
+- I am also playing with 3d rendering in PICO-8/Picotron
+
+# Languages
+
+- Python
+- Lua
+
+# Engines
+
+- Godot
+- PICO-8
+- Picotron
