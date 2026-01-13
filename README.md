@@ -12,6 +12,7 @@ I develop games as a hobby, using godot and PICO-8.
 
 - Python
 - Lua
+- GDscript
 
 ## Engines
 
