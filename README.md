@@ -1,12 +1,12 @@
 # Salutations
 
 I'm Emerald585. 
-I develop games as a hobby, using godot and PICO-8.
+I develop games as a hobby, using Godot and PICO-8.
 
 ## Current projects
 
 - LASERCRAB, a battle game featuring crabs with knockback lasers
-- I am also playing with 3d rendering in PICO-8/Picotron
+- Looking to participate in a few game jams this year
 
 ## Languages
 
