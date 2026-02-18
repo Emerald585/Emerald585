@@ -8,6 +8,12 @@ I develop games as a hobby, using Godot and PICO-8.
 - LASERCRAB, a battle game featuring crabs with knockback lasers
 - Looking to participate in a few game jams this year
 
+## Stats
+![](https://raw.githubusercontent.com/Emerald585/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Emerald585/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Emerald585/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Emerald585/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 ## Languages
 
 ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
